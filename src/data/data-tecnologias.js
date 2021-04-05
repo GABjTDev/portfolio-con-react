@@ -1,0 +1,1 @@
+export const tecnologia = ['html', 'css', 'js', 'jquery','bootstrap', 'sass', 'less', 'php', 'mysql', 'typescript', 'react', 'github' ];
